@@ -10,3 +10,4 @@ A function that encodes a string using rot13
 A function that prints an integer
 Adding a line to code so that the program prints a[2] = 98, followed by a new line
 A function that adds two numbers
+A function that prints a buffer
